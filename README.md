@@ -10,7 +10,7 @@ This repository contains a MATLAB implementation to reproduce the results of [1]
 Usage
 --------
 
-Run script main.m: This script takes the user through two pulse designs and evaluations as described in [1]. This script shows three cases: 1) default shim setting: phase and equal magnitude set by the coil manufacturer to provide sufficient B1+ throughout the heart and the aorta, 2) tailored-RSpec: XXX and 3) tailored-RRob. The functions rely on B1 maps and ROIs available at TBA.
+Run script main.m: This script takes the user through two pulse designs and evaluations as described in [1]. This script shows three cases: 1) default shim setting: phase and equal magnitude set by the coil manufacturer to provide sufficient B1+ throughout the heart and the aorta, 2) tailored-RSpec: tailored for one out of three subject-specific respiration states (inhale, intermediate and exhale) and 3) tailored-RRob: tailored for all three subject-specific respiration states. The functions rely on B1 maps and ROIs available at TBA.
 
 
 Contents
