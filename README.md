@@ -4,7 +4,6 @@ This repository contains a MATLAB implementation to reproduce the results of [1]
 ##### Authors:
 - Christoph S. Aigner  (<christoph.aigner@ptb.de>)
 - Sebastian Dietrich   (<sebastian.dietrich@ptb.de>)
-- Tobias Schäffter     (<tobias.schaeffter@ptb.de>)
 - Sebastian Schmitter  (<sebastian.schmitter@ptb.de>)
 
 Usage
@@ -39,7 +38,7 @@ For details, see the attached LICENSE.
 Reference
 ---------
 
-[1] Aigner, CS, Dietrich, S, Schaeffter, T, and Schmitter, S, Respiration induced B1+ changes and their impact on universal and tailored 3D kT point pulses in 7T body imaging, submitted to Magn. Reson. Med. 2021
+[1] Aigner, CS, Dietrich, S, Schaeffter, T, and Schmitter, S, Respiration induced B1+ changes and their impact on universal and tailored 3D kT point pulses for 7T cardiac imaging, submitted to Magn. Reson. Med. 2021
 
 [2] Dietrich, S, Aigner, CS, Kolbitsch, C, et al. 3D Free-breathing multichannel absolute B1+ Mapping in the human body at 7T. Magn Reson Med. 2021; 85: 2552– 2567. https://doi.org/10.1002/mrm.28602
 
