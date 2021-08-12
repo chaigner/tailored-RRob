@@ -16,7 +16,7 @@ Contents
 --------
 
 ##### Test scripts (run these):
-    main.m          test script to compute and evaluate tailored-RSpec and tailored-RRob at 7T
+    main.m          TBA
 
 Dependencies
 ------------
