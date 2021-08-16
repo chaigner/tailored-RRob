@@ -16,7 +16,16 @@ Contents
 --------
 
 ##### Test scripts (run these):
-    main.m          TBA
+    main.m          test script to compute and evaluate tailored respiration specific and respiration robust pulses at 7T
+
+##### Routines called by the test scripts:
+    cmap.mat                256x3 double matrix with the used colormap of the manuscript
+    designRespTailored.m    function to compute tailored respiration specific and respiration robust pulses kT-point pulses
+    predictRespkTpoints.m   function to evaluate tailored respiration specific and respiration robust pulses kT-point pulses in the heart ROI
+    kTrandphases.mat        200x8 double matrix with randomized phase initials
+    
+##### External data files used by the test scripts:
+    RR_DB_B1R.zip          10 (deep breathing) channel-wise invivo B1+ datasets of the human body at 7T are available at https://doi.org/10.6084/m9.figshare.15172899.v1
 
 Dependencies
 ------------
@@ -38,7 +47,7 @@ For details, see the attached LICENSE.
 Reference
 ---------
 
-[1] Aigner, CS, Dietrich, S, Schaeffter, T, and Schmitter, S, Respiration induced B1+ changes and their impact on universal and tailored 3D kT point pulses for 7T cardiac imaging, submitted to Magn. Reson. Med. 2021
+[1] Aigner, CS, Dietrich, S and Schmitter, S, Respiration induced B1+ changes and their impact on universal and tailored 3D kT point pulses for 7T cardiac imaging, submitted to Magn. Reson. Med. 2021
 
 [2] Dietrich, S, Aigner, CS, Kolbitsch, C, et al. 3D Free-breathing multichannel absolute B1+ Mapping in the human body at 7T. Magn Reson Med. 2021; 85: 2552– 2567. https://doi.org/10.1002/mrm.28602
 
